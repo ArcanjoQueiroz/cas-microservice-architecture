@@ -40,3 +40,7 @@ Esse projeto utiliza os domínios **api.alexandre.com.br** e **portal.alexandre.
 ```
 
 
+### URLS
+
+[Customer Service](https://api.alexandre.com.br/customer-service/customer)
+[Product Service](https://api.alexandre.com.br/product-service/wishList)
